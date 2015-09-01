@@ -1,0 +1,12 @@
+{
+  "name": "app-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "latest",
+    "angular-route": "latest",
+    "angular-ui-bootstrap": "~0.13.3",
+    "animate.css": "latest",
+    "bootstrap": "latest",
+    "font-awesome": "latest"
+  }
+}
